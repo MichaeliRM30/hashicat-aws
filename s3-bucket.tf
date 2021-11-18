@@ -10,8 +10,6 @@ module "s3_bucket" {
   }
 
   tags = {
-    Department = "IT"
-    Billable = "True"
   }
 
 }
